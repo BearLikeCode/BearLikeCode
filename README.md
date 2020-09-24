@@ -1,5 +1,4 @@
-<h1>Hi 👋</h1>
-<h2>My name is Vlad Ataman and I'm a FullStack JS Developer</h2>
+<h1>Hi 👋 My name is Vlad Ataman and I'm a FullStack JS Developer</h1>
 
 <p align="left">My tech stack: 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>

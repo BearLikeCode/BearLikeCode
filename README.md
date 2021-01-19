@@ -3,7 +3,8 @@
 
 My tech stack: 
 ![js](./icons/javascript.svg)
-![js](./icons/react.svg)<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
+![react](./icons/react.svg)
+![redux](./icons/redux.svg)
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>

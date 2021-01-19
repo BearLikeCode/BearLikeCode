@@ -2,7 +2,7 @@
 ## I'm a FullStack JS Developer
 
 My tech stack: 
-![js](https://img.icons8.com/color/18/000000/javascript.png)
+![js](https://img.icons8.com/color/24/000000/javascript.png)
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/>

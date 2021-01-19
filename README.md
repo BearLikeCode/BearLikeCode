@@ -5,17 +5,16 @@ My tech stack:
 ![js](./icons/javascript.svg)
 ![react](./icons/react.svg)
 ![redux](./icons/redux.svg)
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="20" height="20"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="express" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
+![webpack](./icons/webpack.svg)
+![gulp](./icons/gulp.svg)
+![sass](./icons/sass.svg)
+![bootstrap](./icons/bootstrap.svg)
+![node](./icons/node.svg)
+![express](./icons/express.svg)
+![mongodb](./icons/mongodb.svg)
+![mysql](./icons/mysql.svg)
+![postgresql](./icons/postgresql.svg)
+![redis](./icons/redis.svg)
 
 </p>
 

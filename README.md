@@ -1,6 +1,6 @@
 # My name is Vlad Ataman and I'm a FullStack JS Developer
 
-My tech stack: ![js](./icons/javascript.svg) ![react](./icons/react.svg) ![redux](./icons/redux.svg) ![webpack](./icons/webpack.svg) ![gulp](./icons/gulp.svg) ![sass](./icons/sass.svg) ![bootstrap](./icons/bootstrap.svg) ![node](./icons/node.svg) ![express](./icons/express.svg) ![mongodb](./icons/mongodb.svg) ![mysql](./icons/mysql.svg) ![postgresql](./icons/postgresql.svg) ![redis](./icons/redis.svg)
+My tech stack: ![js](./icons/javascript.svg) ![react](./icons/react.svg) ![redux](./icons/redux.svg) ![node](./icons/node.svg) ![express](./icons/express.svg)
 
 </p>
 

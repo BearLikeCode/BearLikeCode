@@ -13,4 +13,5 @@ My tech stack: ![js](./icons/javascript.svg) ![react](./icons/react.svg) ![node]
 <p style="text-align: center, color: #fff">You can find me on 
     <a href="https://www.facebook.com/bearcoder/" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/bearcoder" height="20" width="80" /></a>, or on
     <a href="https://www.linkedin.com/in/vlad-ataman/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vlad-ataman/" height="20" width="80" /></a>
+    <a href="https://bearlikecode.github.io/BearLikeCode/">My Resume</a>
 </p>

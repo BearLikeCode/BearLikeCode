@@ -1,7 +1,8 @@
 # My name is Vlad Ataman and I'm a FullStack JS Developer
 
-My tech stack: ![js](./icons/javascript.svg) ![react](./icons/react.svg) ![node](./icons/node.svg) ![express](./icons/express.svg)
-
+<p>My tech stack:</p>
+<p>
+  ![js](./icons/javascript.svg) ![react](./icons/react.svg) ![node](./icons/node.svg) ![express](./icons/express.svg)
 </p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=bearlikecode&count_private=true&show_icons=true&theme=default&hide_title=true)](https://github.com/bearlikecode/github-readme-stats)

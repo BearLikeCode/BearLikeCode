@@ -1,6 +1,6 @@
 # My name is Vlad Ataman and I'm a FullStack JS Developer
 
-My tech stack:
+My tech stack:<br/>
 ![js](./icons/javascript.svg) ![react](./icons/react.svg) ![node](./icons/node.svg) ![express](./icons/express.svg)
 </p>
   

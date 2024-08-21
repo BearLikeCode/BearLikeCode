@@ -4,7 +4,7 @@ My tech stack:<br/>
 ![js](./icons/javascript.svg)  ![react](./icons/react.svg) ![node](./icons/node.svg) ![express](./icons/express.svg)
 </p>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=bearlikecode&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_title=true)](https://github.com/bearlikecode/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=bearlikecode&show_icons=true&theme=default&hide_title=true)](https://github.com/bearlikecode/github-readme-stats)
 
 - <a href="https://bearlikecode.github.io/BearLikeCode/">My Resume</a>
 - 👨‍ 💻  All of my public projects are available <a href="https://github.com/BearLikeCode?tab=repositories">
